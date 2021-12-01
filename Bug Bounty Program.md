@@ -25,6 +25,7 @@ The smart contracts of Marinade Finance in scope for this bounty can be found he
 ## Impacts in Scope
 
 Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.
+
 - Loss of user funds staked (principal) by freezing or theft 
 - Loss of governance funds
 - Theft of unclaimed yieldFreezing of unclaimed yield
