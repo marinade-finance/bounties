@@ -12,8 +12,9 @@ Bounties will be distributed according to the impact of the vulnerability. In or
 Critical: Up to USD 250,000
 High:  USD 15,000
 
-Critical vulnerabilities are further capped at 10% of economic damage, with the main consideration being the funds affected in addition to PR and brand considerations, at the discretion of the team.
-However, there is a minimum payout of USD 50,000 for Critical bug reports.
+Critical vulnerabilities are further **capped at 10% of economic damage**, with the main consideration being the funds affected in addition to PR and brand considerations, at the discretion of the team.
+However, there is a **minimum payout of USD 50,000 for Critical bug reports**.
+
 Payouts are handled by the Marinade Finance team directly and are denominated in USD. However, payouts are done in mSOL and MNDE.
 
 # Scope of the bounty program
@@ -24,10 +25,16 @@ The smart contracts of Marinade Finance in scope for this bounty can be found he
 ## Impacts in Scope
 
 Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.
-Loss of user funds staked (principal) by freezing or theft Loss of governance fundsTheft of unclaimed yieldFreezing of unclaimed yieldTemporary freezing of funds for at least 6 days (2 epochs)Unable to call smart contract
+- Loss of user funds staked (principal) by freezing or theft 
+- Loss of governance funds
+- Theft of unclaimed yieldFreezing of unclaimed yield
+- Temporary freezing of funds for at least 6 days (2 epochs)
+- Unable to call smart contract
 
 ## Prioritized vulnerabilities
-We are especially interested in receiving and rewarding vulnerabilities of the following types.
+
+We are especially interested in receiving and rewarding vulnerabilities of the following types:
+
 - Re-entrancy
 - Logic errors (including authentification errors)
 - Trusting trust/dependency vulnerabilities (including composability vulnerabilities)
