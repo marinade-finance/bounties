@@ -20,7 +20,7 @@ Payouts are handled by the Marinade Finance team directly and are denominated in
 # Scope of the bounty program
 ## Assets in Scope
 
-The smart contracts of Marinade Finance in scope for this bounty can be found here.
+The smart contracts of Marinade Finance in scope for this bounty can be found in the liquid-staking-solution repository.
 
 ## Impacts in Scope
 
@@ -73,8 +73,5 @@ The following activities are **prohibited** by this bug bounty program:
 
 # How to claim a bounty? 
 
-If you want to claim a bounty, follow the following steps: 
-
-- Join our Discord. 
-- Reach out to LMT-luciotato#1019 and provide him your Proof-of-Concept. 
-- Your submission will be analyzed and confirmed or not. If your submission is confirmed, our team will reach out to you to confirm the amount of the bounty to claim. 
+If you want to report a bug and claim a bounty, go to our Marinade bug bounty program:
+https://www.immunefi.com/bounty/marinade
